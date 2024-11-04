@@ -5,7 +5,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name = 'electf4_basicML',
-    version = '0.1.3',
+    version = '0.1.5',
     packages = find_packages(),
     install_requires = [
     ],
