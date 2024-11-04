@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: electf4-basicML
-Version: 0.1.2
+Version: 0.1.3
 Summary: UNKNOWN
 Home-page: UNKNOWN
 License: UNKNOWN
@@ -9,8 +9,6 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 Example for test Make Circle
-
-.. code-block:: python
 
     from electf4 import tdd
     
